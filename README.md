@@ -87,7 +87,7 @@ Para responder se calcula la ocupación en ambos espectros con $N=250$. Las pare
 
 La Figura 7 muestra que las dos fronteras producen un pico en el centro del espacio de momentos.
 
-![Figura 7. Distribución proyectada en momentos](figuras/05a_proyeccion_estados.png)
+![Figura 7. Distribución proyectada en momentos](figuras/07_proyeccion_estados.png)
 
 La animación muestra la densidad proyectada en el espacio físico. En la caja periódica, el perfil es uniforme. Con paredes rígidas, la densidad proyectada en el centro pasa de **1,37 a 3,57 veces su valor medio** al enfriar de 130 a 40 nK. La celda de la sección 3.7.2 permite elegir la frontera y la escala de temperatura.
 
